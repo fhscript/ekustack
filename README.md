@@ -1,2 +1,0 @@
-# ekustack
-EkuStack Web com
